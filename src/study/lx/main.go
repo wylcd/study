@@ -153,13 +153,15 @@ func main() {
 	//testMap(b)
 	//fmt.Println(b)
 
-	a := []int64{1, 2, 3}
-	b := a[0:2]
-	b = append(b, 50)
-	fmt.Println(a)
-	b = append(b, 60)
-	b[0] = 20
-	fmt.Println(a)
+	//a := []int64{1, 2, 3}
+	//b := a[0:2]
+	//b = append(b, 50)
+	//fmt.Println(a)
+	//b = append(b, 60)
+	//b[0] = 20
+	//fmt.Println(a)
+
+	fmt.Println("我被酒色所伤，竟如此憔悴，从今日起，戒酒！")
 }
 
 func testSlice(a []int64) {
