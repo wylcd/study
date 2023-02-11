@@ -164,6 +164,7 @@ func main() {
 	fmt.Println("我被酒色所伤，竟如此憔悴，从今日起，戒酒！")
 	fmt.Println("死生契阔，与子成说；执子之手，与子偕老。")
 	fmt.Println("隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。")
+	fmt.Println("隐约雷鸣，阴霾天空，纵使天无雨，我亦留此地。")
 }
 
 func testSlice(a []int64) {
