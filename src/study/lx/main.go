@@ -165,6 +165,7 @@ func main() {
 	fmt.Println("死生契阔，与子成说；执子之手，与子偕老。")
 	fmt.Println("隐约雷鸣，阴霾天空，但盼风雨来，能留你在此。")
 	fmt.Println("隐约雷鸣，阴霾天空，纵使天无雨，我亦留此地。")
+	fmt.Println("github push test")
 }
 
 func testSlice(a []int64) {
