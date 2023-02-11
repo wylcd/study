@@ -168,6 +168,7 @@ func main() {
 	fmt.Println("github push test")
 	fmt.Println("github pull test")
 	fmt.Println("gitee push test")
+    fmt.Println("gitee pull test")
 }
 
 func testSlice(a []int64) {
