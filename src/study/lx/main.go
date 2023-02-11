@@ -167,6 +167,7 @@ func main() {
 	fmt.Println("隐约雷鸣，阴霾天空，纵使天无雨，我亦留此地。")
 	fmt.Println("github push test")
 	fmt.Println("github pull test")
+	fmt.Println("gitee push test")
 }
 
 func testSlice(a []int64) {
